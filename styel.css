@@ -1,0 +1,33 @@
+* {
+  box-sizing: border;
+}
+
+.div1 {
+  height: 60px;
+  background-color: red;
+}
+
+.div2 {
+  height: 350px;
+  background-color: orange;
+}
+
+.div3 {
+  height: 320px;
+  background-color: yellow;
+}
+
+.div4 {
+  height: 385px;
+  background-color: green;
+}
+
+.div5 {
+  height: 200px;
+  background-color: blue;
+}
+
+.div6 {
+  height: 200px;
+  background-color: purple;
+}
