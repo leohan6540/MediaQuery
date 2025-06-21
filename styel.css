@@ -31,3 +31,24 @@
   height: 200px;
   background-color: purple;
 }
+
+@media (min-width: 769px) {
+ 
+  .div4 {
+    height: 360px;
+    float:left;
+    width: 50%;
+  }
+
+  .div5 {
+    float: left;
+    height: 180px;
+    width: 50%;
+  }
+
+  .div6 {
+    float: left;
+    height: 180px;
+    width: 50%;
+  }
+}
