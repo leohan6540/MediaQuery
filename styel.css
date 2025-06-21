@@ -52,3 +52,35 @@
     width: 50%;
   }
 }
+
+@media (min-width: 1200px) {
+  .div2 {
+    width: 50%;
+    height: 700px;
+    float: left;
+  }  
+
+  .div3 {
+    width: 50%;    
+    height: 350px;
+    float: left;
+  }
+
+  .div4 {
+    width: 25%;
+    height: 350px;
+    float: left;
+  }
+
+  .div5 {
+    width: 25%;
+    height: 175px;
+    float: left;
+  }
+
+  .div6 {
+    width: 25%;
+    height: 175px;
+    float: left; 
+  }
+}
